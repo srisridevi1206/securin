@@ -1,0 +1,143 @@
+[
+  {
+    "Contient": "North America",
+    "Country_State": "US",
+    "cuisine": "Southern Recipes",
+    "title": "Sweet Potato Pie",
+    "URL": "https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/",
+    "rating": 4.8,
+    "total_time": 115,
+    "prep_time": 15,
+    "cook_time": 100,
+    "description": "Shared from a Southern recipe, this homemade sweet potato pie is easy to make with boiled sweet potato. Try it, it may just be the best you've ever tasted!",
+    "ingredients": [
+      "1 (1 pound) sweet potato, with skin",
+      "0.5 cup butter, softened",
+      "1 cup white sugar",
+      "0.5 cup milk",
+      "2 large eggs",
+      "0.5 teaspoon ground nutmeg",
+      "0.5 teaspoon ground cinnamon",
+      "1 teaspoon vanilla extract",
+      "1 (9 inch) unbaked pie crust"
+    ],
+    "instructions": [
+      "Place whole sweet potato in pot and cover with water; bring to a boil. Boil until tender when pierced with a fork, 40 to 50 minutes.",
+      "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Remove sweet potato from the pot and run under cold water. Remove and discard skin.",
+      "Break sweet potato flesh apart and place in a bowl. Add butter and mix with an electric mixer until well combined. Add sugar, milk, eggs, nutmeg, cinnamon, and vanilla; beat on medium speed until mixture is smooth. Pour filling into unbaked pie crust.",
+      "Bake in the preheated oven until a knife inserted in the center comes out clean, 55 to 60 minutes.",
+      "Remove from the oven and let cool before serving."
+    ],
+    "nutrients": {
+      "calories": "389 kcal",
+      "carbohydrateContent": "48 g",
+      "cholesterolContent": "78 mg",
+      "fiberContent": "3 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "10 g",
+      "sodiumContent": "254 mg",
+      "sugarContent": "28 g",
+      "fatContent": "21 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "8 servings"
+  },
+  {
+    "Contient": "Europe",
+    "Country_State": "France",
+    "cuisine": "French",
+    "title": "Coq au Vin",
+    "URL": "https://www.allrecipes.com/recipe/16046/coq-au-vin/",
+    "rating": 4.7,
+    "total_time": 180,
+    "prep_time": 30,
+    "cook_time": 150,
+    "description": "A classic French dish of chicken braised in red wine with mushrooms and pearl onions.",
+    "ingredients": [
+      "3 tablespoons butter",
+      "2 tablespoons brandy",
+      "1 (3 pound) whole chicken, cut into pieces",
+      "2 cups red wine",
+      "2 cups chicken stock",
+      "8 whole pearl onions",
+      "8 ounces fresh mushrooms, whole",
+      "4 cloves garlic, minced",
+      "2 bay leaves",
+      "1 teaspoon dried thyme",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Melt butter in a large pot over medium-high heat.",
+      "Brown chicken pieces on all sides, about 5 minutes per side.",
+      "Pour brandy over chicken and ignite with a long match. Let flames burn out.",
+      "Add red wine, stock, garlic, bay leaves, and thyme. Bring to a simmer.",
+      "Cover and simmer for 1 hour.",
+      "Add pearl onions and mushrooms, simmer uncovered for 30 minutes.",
+      "Season with salt and pepper to taste and serve."
+    ],
+    "nutrients": {
+      "calories": "450 kcal",
+      "carbohydrateContent": "15 g",
+      "cholesterolContent": "85 mg",
+      "fiberContent": "2 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "9 g",
+      "sodiumContent": "520 mg",
+      "sugarContent": "4 g",
+      "fatContent": "18 g",
+      "unsaturatedFatContent": "6 g"
+    },
+    "serves": "4 servings"
+  },
+  {
+    "Contient": "Asia",
+    "Country_State": "Thailand",
+    "cuisine": "Thai",
+    "title": "Pad Thai",
+    "URL": "https://www.allrecipes.com/recipe/16052/pad-thai/",
+    "rating": 4.6,
+    "total_time": 35,
+    "prep_time": 15,
+    "cook_time": 20,
+    "description": "A popular Thai noodle dish with shrimp, eggs, and bean sprouts.",
+    "ingredients": [
+      "8 ounces dried rice noodles",
+      "3 tablespoons tamarind paste",
+      "2 tablespoons fish sauce",
+      "1 tablespoon white sugar",
+      "2 tablespoons peanut oil",
+      "3 cloves garlic, minced",
+      "8 ounces shrimp, peeled and deveined",
+      "2 eggs",
+      "1 cup fresh bean sprouts",
+      "0.5 cup roasted peanuts, crushed",
+      "3 green onions, chopped",
+      "1 lime, cut into wedges"
+    ],
+    "instructions": [
+      "Soak rice noodles in water for 30 minutes, then drain.",
+      "In a small bowl, combine tamarind paste, fish sauce, and sugar.",
+      "Heat oil in a wok or large skillet over high heat.",
+      "Stir-fry garlic until fragrant, about 10 seconds.",
+      "Add shrimp and cook until pink, about 2 minutes.",
+      "Push ingredients to the side, crack eggs into wok and scramble.",
+      "Add noodles and tamarind sauce, toss until combined.",
+      "Stir in bean sprouts and green onions.",
+      "Serve topped with peanuts and lime wedges."
+    ],
+    "nutrients": {
+      "calories": "380 kcal",
+      "carbohydrateContent": "42 g",
+      "cholesterolContent": "146 mg",
+      "fiberContent": "3 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "4 g",
+      "sodiumContent": "760 mg",
+      "sugarContent": "6 g",
+      "fatContent": "14 g",
+      "unsaturatedFatContent": "8 g"
+    },
+    "serves": "2 servings"
+  }
+]  
